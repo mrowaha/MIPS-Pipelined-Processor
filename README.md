@@ -16,4 +16,4 @@ add, sub, and, or, slt, lw, sw, beq, addi, j and jal instructions
 
 ## Diagram
 
-![PipelineDatapath](https://github.com/mrowaha/MIPS-Pipelined-Processor/assets/91381790/73d71138-f23a-4b0d-8c67-55f502bdd74e)
+![PipelineDatapath](https://github.com/mrowaha/MIPS-Pipelined-Processor/assets/91381790/da49762b-3248-49da-a0fd-b645752a4bd9)
